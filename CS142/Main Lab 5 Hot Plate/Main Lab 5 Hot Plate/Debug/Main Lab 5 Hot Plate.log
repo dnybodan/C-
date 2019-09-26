@@ -1,0 +1,4 @@
+﻿  Main Lab 5 Hot Plate.cpp
+c:\users\dnybo\source\repos\main lab 5 hot plate\main lab 5 hot plate\main lab 5 hot plate.cpp(29): warning C4101: 'fileArray': unreferenced local variable
+c:\users\dnybo\source\repos\main lab 5 hot plate\main lab 5 hot plate\main lab 5 hot plate.cpp(30): warning C4101: 'fileArrayNew': unreferenced local variable
+  Main Lab 5 Hot Plate.vcxproj -> C:\Users\dnybo\source\repos\Main Lab 5 Hot Plate\Debug\Main Lab 5 Hot Plate.exe

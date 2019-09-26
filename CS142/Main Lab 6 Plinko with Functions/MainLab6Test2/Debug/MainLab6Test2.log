@@ -1,0 +1,5 @@
+﻿  MainLab6Test2.cpp
+c:\users\dnybo\source\repos\mainlab6test2\mainlab6test2\mainlab6test2.cpp(66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\dnybo\source\repos\mainlab6test2\mainlab6test2\mainlab6test2.cpp(248): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\dnybo\source\repos\mainlab6test2\mainlab6test2\mainlab6test2.cpp(35): warning C4715: 'ComputeWinnings': not all control paths return a value
+  MainLab6Test2.vcxproj -> C:\Users\dnybo\source\repos\MainLab6Test2\Debug\MainLab6Test2.exe

@@ -1,0 +1,14 @@
+INT true
+add 1 true
+remove 1 true
+add 2 true
+add 3 true
+add 4 true
+add 5 true
+remove 3 true
+remove 2 true
+print : 
+ 1: 4
+ 2: _ 5
+clear true
+print : empty

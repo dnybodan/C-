@@ -1,0 +1,100 @@
+﻿  main.cpp
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\myarray.h(30): error C2365: 'MyArray<T>::size': redefinition; previous definition was 'data member'
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\myarray.h(12): note: see declaration of 'MyArray<T>::size'
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\myarray.h(112): note: see reference to class template instantiation 'MyArray<T>' being compiled
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\myarray.h(31): error C2059: syntax error: 'return'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\myarray.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\myarray.h(34): error C2146: syntax error: missing ';' before identifier 'T'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\myarray.h(30): error C2207: 'MyArray<T>::size': a member of a class template cannot acquire a function type
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(55): note: see reference to class template instantiation 'MyArray<int>' being compiled
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\myarray.h(30): error C2365: 'MyArray<int>::size': redefinition; previous definition was 'data member'
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\myarray.h(12): note: see declaration of 'MyArray<int>::size'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(64): error C2679: binary '<<': no operator found which takes a right-hand operand of type 'MyArray<int>' (or there is no acceptable conversion)
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(508): note: could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(480): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(460): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(440): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(420): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(400): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(380): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(360): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(340): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(320): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(295): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(275): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(241): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(221): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(215): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(209): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(204): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(1047): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(981): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(974): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(967): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(960): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(834): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(787): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(749): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\new folder\vc\tools\msvc\14.15.26726\include\ostream(702): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(64): note: while trying to match the argument list '(std::ofstream, MyArray<int>)'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(66): error C2039: 'Iterator': is not a member of 'MyArray<int>'
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(55): note: see declaration of 'MyArray<int>'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(66): error C2065: 'Iterator': undeclared identifier
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(66): error C2146: syntax error: missing ';' before identifier 'iter1'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(66): error C2065: 'iter1': undeclared identifier
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(66): error C2039: 'begin': is not a member of 'MyArray<int>'
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(55): note: see declaration of 'MyArray<int>'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(67): error C2065: 'iter1': undeclared identifier
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(71): error C2039: 'Iterator': is not a member of 'MyArray<int>'
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(55): note: see declaration of 'MyArray<int>'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(71): error C2065: 'Iterator': undeclared identifier
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(71): error C2146: syntax error: missing ';' before identifier 'iter1'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(71): error C2143: syntax error: missing ';' before '='
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(71): error C2143: syntax error: missing ')' before '='
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(71): error C2059: syntax error: '='
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(71): error C2065: 'iter1': undeclared identifier
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(71): error C2039: 'end': is not a member of 'MyArray<int>'
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(55): note: see declaration of 'MyArray<int>'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(71): error C2059: syntax error: ')'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(73): error C2059: syntax error: ';'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(74): error C2065: 'iter1': undeclared identifier
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(76): error C2143: syntax error: missing ';' before '<<'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(76): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(79): error C2143: syntax error: missing ';' before '<<'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(79): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(79): error C2086: 'int out': redefinition
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(76): note: see declaration of 'out'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(80): error C2059: syntax error: 'for'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(80): error C2143: syntax error: missing ')' before ';'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(80): error C2143: syntax error: missing ';' before '<'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(80): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(80): error C2143: syntax error: missing ';' before '++'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(80): error C2086: 'int i': redefinition
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(80): note: see declaration of 'i'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(80): error C2059: syntax error: ')'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(81): error C2143: syntax error: missing ';' before '{'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(81): error C2447: '{': missing function header (old-style formal list?)
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(84): error C2143: syntax error: missing ';' before '<<'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(84): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(84): error C2086: 'int out': redefinition
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(76): note: see declaration of 'out'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(86): error C2143: syntax error: missing ';' before '<<'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(86): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(86): error C2086: 'int out': redefinition
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(76): note: see declaration of 'out'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(87): error C2039: 'Iterator': is not a member of 'MyArray<int>'
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(55): note: see declaration of 'MyArray<int>'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(87): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(87): error C2146: syntax error: missing ';' before identifier 'iter2'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(88): error C2065: 'iter2': undeclared identifier
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(89): error C2065: 'iter2': undeclared identifier
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(90): error C2059: syntax error: 'while'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(91): error C2143: syntax error: missing ';' before '{'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(91): error C2447: '{': missing function header (old-style formal list?)
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(99): error C2143: syntax error: missing ';' before '<<'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(99): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(99): error C2086: 'int out': redefinition
+  c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(76): note: see declaration of 'out'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(101): error C2059: syntax error: 'return'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(102): error C2059: syntax error: '}'
+c:\users\dnybo\source\repos\cs 235\lab 3\lab 3\main.cpp(102): error C2143: syntax error: missing ';' before '}'

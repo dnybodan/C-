@@ -1,0 +1,58 @@
+Pokemon: Charmander fire
+Pokemon: Bulbasaur grass
+Pokemon: Squirtle water
+Pokemon: Pikachu electric
+Pokemon: Machoke fighting
+Pokemon: Pidgeotto flying
+Pokemon: Dugtrio ground
+Pokemon: Geodude rock
+Pokemon: Articuno ice
+Pokemon: Snorlax normal
+Pokemon: Snorlax normal
+Pokemon: Snorlax normal
+Pokemon: Charmander fire
+Pokemon: Bulbasaur grass
+Move: flamethrower fire
+Move: flamethrower fire
+Move: flamethrower fire
+Move: brick_break fighting
+Move: razor_leaf grass
+Move: tackle normal
+Move: spark electric
+Move: quick_attack normal
+Move: water_gun water
+Move: ice_beam ice
+Move: karate_chop fighting
+Move: rock_slide rock
+Move: air_slash flying
+Move: earthquake ground
+Move: body_slam normal
+Move: earthquake ground
+Move: body_slam normal
+Pokemon: 10/31
+[8:Squirtle->water]
+[9:Machoke->fighting]
+[13:Geodude->rock]
+[18:Pidgeotto->flying]
+[19:Dugtrio->ground]
+[21:Charmander->fire]
+[22:Bulbasaur->grass]
+[23:Articuno->ice]
+[24:Pikachu->electric]
+[27:Snorlax->normal]
+
+Moves: 13/31
+[8:tackle->normal]
+[9:razor_leaf->grass]
+[11:air_slash->flying]
+[13:rock_slide->rock]
+[14:brick_break->fighting]
+[15:spark->electric]
+[16:ice_beam->ice]
+[17:water_gun->water]
+[19:quick_attack->normal]
+[20:karate_chop->fighting]
+[21:flamethrower->fire]
+[22:earthquake->ground]
+[30:body_slam->normal]
+

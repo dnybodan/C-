@@ -1,0 +1,7 @@
+﻿  Test Main Lab 7.cpp
+c:\users\dnybo\source\repos\main lab 7\test main lab 7\test main lab 7.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\dnybo\source\repos\main lab 7\test main lab 7\test main lab 7.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\dnybo\source\repos\main lab 7\test main lab 7\test main lab 7.cpp(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\dnybo\source\repos\main lab 7\test main lab 7\test main lab 7.cpp(172): warning C4018: '>': signed/unsigned mismatch
+c:\users\dnybo\source\repos\main lab 7\test main lab 7\test main lab 7.cpp(203): warning C4018: '<': signed/unsigned mismatch
+  Test Main Lab 7.vcxproj -> C:\Users\dnybo\source\repos\Main Lab 7\Debug\Test Main Lab 7.exe

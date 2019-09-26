@@ -1,0 +1,12 @@
+﻿  Playlist.cpp
+c:\users\dnybo\source\repos\main lab 9\main lab 9\playlist.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\dnybo\source\repos\main lab 9\main lab 9\playlist.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\dnybo\source\repos\main lab 9\main lab 9\playlist.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\dnybo\source\repos\main lab 9\main lab 9\playlist.cpp(45): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\dnybo\source\repos\main lab 9\main lab 9\main.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\dnybo\source\repos\main lab 9\main lab 9\main.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\dnybo\source\repos\main lab 9\main lab 9\main.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\dnybo\source\repos\main lab 9\main lab 9\main.cpp(205): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Main Lab 9.vcxproj -> C:\Users\dnybo\source\repos\Main Lab 9\Debug\Main Lab 9.exe

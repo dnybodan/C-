@@ -1,0 +1,20 @@
+﻿  Deque.cpp
+  Queue.cpp
+  Stack.cpp
+  Station.cpp
+  Vector.cpp
+  main.cpp
+c:\users\dnybo\source\repos\cs 235\lab 6\lab 6\station.h(169): warning C4018: '<': signed/unsigned mismatch
+  c:\users\dnybo\source\repos\cs 235\lab 6\lab 6\station.h(152): note: while compiling class template member function 'std::string Station<size_t>::find(T)'
+          with
+          [
+              T=size_t
+          ]
+  c:\users\dnybo\source\repos\cs 235\lab 6\lab 6\main.cpp(109): note: see reference to function template instantiation 'std::string Station<size_t>::find(T)' being compiled
+          with
+          [
+              T=size_t
+          ]
+  c:\users\dnybo\source\repos\cs 235\lab 6\lab 6\main.cpp(44): note: see reference to class template instantiation 'Station<size_t>' being compiled
+  Generating Code...
+  Lab 6.vcxproj -> C:\Users\dnybo\source\repos\CS 235\Lab 6\Debug\Lab 6.exe

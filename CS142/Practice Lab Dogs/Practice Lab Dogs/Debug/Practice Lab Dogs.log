@@ -1,0 +1,27 @@
+﻿  Animal.cpp
+  Cat.cpp
+  Chick.cpp
+  Chicken.cpp
+c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\chicken.cpp(6): error C2248: 'Animal::~Animal': cannot access private member declared in class 'Animal'
+  c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\animal.h(20): note: see declaration of 'Animal::~Animal'
+  c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\animal.h(7): note: see declaration of 'Animal'
+c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\chicken.cpp(11): error C2248: 'Animal::~Animal': cannot access private member declared in class 'Animal'
+  c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\animal.h(20): note: see declaration of 'Animal::~Animal'
+  c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\animal.h(7): note: see declaration of 'Animal'
+  Dog.cpp
+  Duck.cpp
+c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\duck.cpp(6): error C2248: 'Animal::~Animal': cannot access private member declared in class 'Animal'
+  c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\animal.h(20): note: see declaration of 'Animal::~Animal'
+  c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\animal.h(7): note: see declaration of 'Animal'
+c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\duck.cpp(11): error C2248: 'Animal::~Animal': cannot access private member declared in class 'Animal'
+  c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\animal.h(20): note: see declaration of 'Animal::~Animal'
+  c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\animal.h(7): note: see declaration of 'Animal'
+  Pet.cpp
+c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\pet.cpp(16): error C2248: 'Animal::~Animal': cannot access private member declared in class 'Animal'
+  c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\animal.h(20): note: see declaration of 'Animal::~Animal'
+  c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\animal.h(7): note: see declaration of 'Animal'
+c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\pet.cpp(21): error C2248: 'Animal::~Animal': cannot access private member declared in class 'Animal'
+  c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\animal.h(20): note: see declaration of 'Animal::~Animal'
+  c:\users\dnybo\source\repos\practice lab dogs\practice lab dogs\animal.h(7): note: see declaration of 'Animal'
+  Source.cpp
+  Generating Code...
