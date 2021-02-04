@@ -1,2 +1,1 @@
-# stow-away
- c++ projects
+# c++ projects
